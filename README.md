@@ -1,4 +1,4 @@
-[https://punchlines.ai/](https://punchlinesai.net/)
+[(https://punchlinesai.net/)]
 
 **Punchlines AI** is an AI joke generation tool built on top of a large language model (LLM). It was fine-tuned on ~10k late night comedy monologue jokes. 
 
